@@ -4,7 +4,16 @@
 
 First, we will need to create an instance on Jetstream Atmosphere and connect to iRODS. An explanation for how to do both of these things is available on [Mick Song's](https://github.com/michaelsongagradstudent) blog: https://michaelsongagradstudent.github.io/blog/2017/04/12/Cheat_Sheet_Atmosphere
 
-Once we are in the Atmosphere instance, clone the repository and cd into it:
+Once we are in our Atmosphere web shell, we first want to install the package manager [conda](https://conda.io/docs/intro.html):
+```
+wget https://repo.continuum.io/miniconda/Miniconda3-latest-Linux-x86_64.sh
+bash Miniconda3-latest-Linux-x86_64.sh
+```
+We will need to re-initialize our web shell:
+```
+source ~/.bashrc
+```
+Next, clone the repository and cd into it:
 ```
 git clone https://github.com/barneypotter24/ploidy-seq.git
 cd ploidy-seq
@@ -15,7 +24,6 @@ bash setup.sh
 ```
 At several points during the installation, we will be prompted to accept the installation of programs that we will use. Just hit the return key to accept the installation. Once the command is done running we will have a few things:
 - populated directories for all of our raw and reference data
-- an installation of the [conda](https://conda.io/docs/intro.html) package manager
 - a new environment built inside which all of our programs are installed called `ploidy-seq`
 - empty directories that will store temporary files used during the pipeline as well as our pipeline output
 We will activate our new environment by running:

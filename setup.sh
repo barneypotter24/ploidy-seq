@@ -1,10 +1,5 @@
 #!/bin/bash
 
-# Install miniconda
-wget https://repo.continuum.io/miniconda/Miniconda3-latest-Linux-x86_64.sh
-bash Miniconda3-latest-Linux-x86_64.sh
-source ~/.bash_profile
-
 # Create conda environment and install important programs
 conda create -n ploidy-seq -c bioconda python=3
 conda install -n ploidy-seq -c bioconda trimmomatic=0.36
