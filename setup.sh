@@ -56,7 +56,7 @@ iget -K /iplant/home/jcoate/Arabidopsis/2017/Fastq/2WL4_CAGATC_R1.fastq.gz
 
 iget -K /iplant/home/jcoate/Arabidopsis/2017/Fastq/4WL1_CGATGT_R1.fastq.gz
 iget -K /iplant/home/jcoate/Arabidopsis/2017/Fastq/4WL2_TTAGGC_R1.fastq.gz
-iget -K /iplant/home/jcoate/Arabidopsis/2017/Fastq/4WL2_TTAGGC_R1.fastq.gz
+iget -K /iplant/home/jcoate/Arabidopsis/2017/Fastq/4WL3_CCGTCC_R1.fastq.gz
 
 iget -K /iplant/home/jcoate/Arabidopsis/2017/Fastq/8204_1401_48974_CA73UANXX_2xWa5_CCGTCC_R1.fastq.gz
 iget -K /iplant/home/jcoate/Arabidopsis/2017/Fastq/8204_1401_48975_CA73UANXX_2xWa6_GTCCGC_R1.fastq.gz
