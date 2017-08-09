@@ -1,26 +1,27 @@
 #!/bin/bash
 
 # Create conda environment and install important programs
-# conda create -n ploidy-seq -c bioconda python=3
-# conda install -n ploidy-seq -c bioconda trimmomatic=0.36
-# conda install -n ploidy-seq -c bioconda fastqc=0.11.5
-# conda install -n ploidy-seq -c bioconda hisat2=2.1.0
-# conda install -n ploidy-seq -c bioconda cufflinks=2.2.1
-# conda install -n ploidy-seq -c bioconda htseq=0.7.2
-#
-# source activate ploidy-seq && pip install snakemake
-#
+conda create -n ploidy-seq -c bioconda python=3
+conda install -n ploidy-seq -c bioconda trimmomatic=0.36
+conda install -n ploidy-seq -c bioconda fastqc=0.11.5
+conda install -n ploidy-seq -c conda-forge perl=5.22.0.1
+conda install -n ploidy-seq -c bioconda hisat2=2.1.0
+conda install -n ploidy-seq -c bioconda cufflinks=2.2.1
+conda install -n ploidy-seq -c bioconda htseq=0.7.2
+
+source activate ploidy-seq && pip install snakemake
+
 # # Make directories that will store input and reference data
-# mkdir reference
-# mkdir fastq
-#
-# # Make directories for intermediary and output files
-# mkdir trimmo
-# mkdir fastqc
-# mkdir gztmp
-# mkdir hisat2
-# mkdir cufflinks
-# mkdir htseq
+mkdir reference
+mkdir fastq
+
+# Make directories for intermediary and output files
+mkdir trimmo
+mkdir fastqc
+mkdir gztmp
+mkdir hisat2
+mkdir cufflinks
+mkdir htseq
 
 # Populate data directories from CyVerse cloud
 
