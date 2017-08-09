@@ -19,7 +19,7 @@ rule fatqc_trimmed_filtered:
     input:
         "trimmo/{library}.fastq.gz"
     output:
-        "fastqc/{library}_fastqc.zip"
+        "fastqc/{library}_fastqc.html"
     shell:
         "fastqc {input}"
 
