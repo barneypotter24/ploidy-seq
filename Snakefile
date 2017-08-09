@@ -60,7 +60,7 @@ rule map_ercc:
 rule count_reads_At:
     input:
         sam="hisat2/{library}_At.sam",
-        gff3="reference/Athaliana_167_TAIR10.gene_exons.gff3",
+        gff3="reference/Athaliana_167_TAIR10.gene_exons.gtf",
     output:
         "htseq/{library}_At.txt"
     shell:
