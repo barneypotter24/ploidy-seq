@@ -44,7 +44,7 @@ rule map_reads:
     params:
         index=_get_index_name_from_reference
     shell:
-        "hisat2 -p 8 -k 10 -x {params.index} -U {input.reads} -known-splicesite-infile {input.spliceSites} --no-unal -t -S {output}"
+        "hisat2 -p 8 -k 10 -x {params.index} -U {input.reads} --known-splicesite-infile {input.spliceSites} --no-unal -t -S {output}"
 
 rule map_ercc:
     input:
