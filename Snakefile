@@ -13,7 +13,7 @@ rule quality_filter:
     output:
         temp ("trimmo/{library}.fastq.gz")
     shell:
-        "trimmomatic SE -phred33 {input} {output} ILLUMINACLIP:../miniconda3/envs/ploidy-seq/share/trimmomatic-0.36-4/adapters/TruSeq3.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36"
+        "trimmomatic SE -phred33 {input} {output} ILLUMINACLIP:../miniconda3/envs/ploidy-seq/share/trimmomatic-0.36-4/adapters/TruSeq3-SE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36"
 
 # rule fastqc_trimmed_filtered:
 #     input:
