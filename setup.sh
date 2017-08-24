@@ -45,7 +45,7 @@ iget -K /iplant/home/jcoate/Arabidopsis/2017/Reference_Seqs/ERCC92.4.ht2
 iget -K /iplant/home/jcoate/Arabidopsis/2017/Reference_Seqs/ERCC92.5.ht2
 iget -K /iplant/home/jcoate/Arabidopsis/2017/Reference_Seqs/ERCC92.6.ht2
 iget -K /iplant/home/jcoate/Arabidopsis/2017/Reference_Seqs/ERCC92.7.ht2
-get -K /iplant/home/jcoate/Arabidopsis/2017/Reference_Seqs/ERCC92.8.ht2
+iget -K /iplant/home/jcoate/Arabidopsis/2017/Reference_Seqs/ERCC92.8.ht2
 iget -K /iplant/home/jcoate/Arabidopsis/2017/Reference_Seqs/ERCC92.fa
 iget -K /iplant/home/jcoate/Arabidopsis/2017/Reference_Seqs/ERCC92.gtf
 # FastQ transcriptome files
