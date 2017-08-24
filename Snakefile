@@ -3,7 +3,7 @@ LIBRARIES = config['libraries']
 
 rule all:
     input:
-        expand("fastqc/{library}_fastqc.html",library=LIBRARIES),
+        # expand("fastqc/{library}_fastqc.html",library=LIBRARIES),
         expand("htseq/{library}_At.txt",library=LIBRARIES),
         expand("htseq/{library}_ERCC.txt",library=LIBRARIES)
 
@@ -15,13 +15,13 @@ rule quality_filter:
     shell:
         "trimmomatic SE -phred33 {input} {output} ILLUMINACLIP:~/miniconda3/envs/ploidy-seq/share/trimmomatic-0.36-4/adapters/TruSeq3.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36"
 
-rule fatqc_trimmed_filtered:
-    input:
-        "trimmo/{library}.fastq.gz"
-    output:
-        "fastqc/{library}_fastqc.html"
-    shell:
-        "fastqc {input}"
+# rule fastqc_trimmed_filtered:
+#     input:
+#         "trimmo/{library}.fastq.gz"
+#     output:
+#         "fastqc/{library}_fastqc.html"
+#     shell:
+#         "fastqc {input}"
 
 rule gunzip:
     input:
