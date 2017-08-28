@@ -64,7 +64,7 @@ rule count_reads_At:
     output:
         "htseq/{library}_At.txt"
     shell:
-        "python -m HTSeq.scripts.count -m intersection-nonempty -s no -t gene -i ID {input.sam} {input.gff3} > {output}"
+        "python -m HTSeq.scripts.count -m intersection-nonempty -s no -i ID {input.sam} {input.gff3} > {output}"
 
 rule count_reads_ERCC:
     input:
@@ -73,4 +73,4 @@ rule count_reads_ERCC:
     output:
         "htseq/{library}_ERCC.txt"
     shell:
-        "python -m HTSeq.scripts.count -m intersection-nonempty -s no -t gene -i ID {input.sam} {input.gff3} > {output}"
+        "python -m HTSeq.scripts.count -m intersection-nonempty -s no -i ID {input.sam} {input.gff3} > {output}"
