@@ -73,4 +73,4 @@ rule count_reads_ERCC:
     output:
         "htseq/{library}_ERCC.txt"
     shell:
-        "python -m HTSeq.scripts.count -m intersection-nonempty -s no -i ID {input.sam} {input.gff3} > {output}"
+        "python -m HTSeq.scripts.count -m intersection-nonempty -s no -t exon -i gene_id {input.sam} {input.gff3} > {output}"
