@@ -1,15 +1,8 @@
 #!/bin/bash
 
 # Create conda environment and install important programs
-conda create -n ploidy-seq -c bioconda python=3
-conda install -n ploidy-seq -c bioconda trimmomatic=0.36
-conda install -n ploidy-seq -c bioconda fastqc=0.11.5
-conda install -n ploidy-seq -c conda-forge perl=5.22.0.1
-conda install -n ploidy-seq -c bioconda hisat2=2.1.0
-conda install -n ploidy-seq -c bioconda cufflinks=2.2.1
-conda install -n ploidy-seq -c bioconda htseq=0.7.2
-
-source activate ploidy-seq && pip install snakemake
+conda create -n ploidy-seq -f env/anaconda.ploidy-seq.yaml
+source activate ploidy-seq
 
 # # Make directories that will store input and reference data
 mkdir reference

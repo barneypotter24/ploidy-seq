@@ -1,0 +1,15 @@
+name: ploidy-seq
+channels:
+- bioconda
+- conda-forge
+- defaults
+dependencies:
+- python=3.*
+- trimmomatic=0.36
+- fastqc=0.11.5
+- perl=5.22.0.1
+- hisat2=2.1.0
+- cufflinks=2.2.1
+- htseq=0.7.2
+- pip:
+  - snakemake
