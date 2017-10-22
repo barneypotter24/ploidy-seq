@@ -41,3 +41,9 @@ If no errors come up, we can start our analysis. Note that analysis will run on 
 snakemake
 ```
 All the output should end up in the folders `htseq` and `fastqc` and no intermediary files will be stored, to keep space use to a minimum.
+
+Finally, move all files back to iPlant:
+```
+cd htseq/
+iput -bf *.txt /iplant/home/jcoate/Arabidopsis/2017/HTSeq/
+```
