@@ -1,5 +1,6 @@
 {
-  "libraries" : [ "2CL2_CGATCT_R1",
+  "libraries" : [ "2CL1_CGATGT_R1"
+                  "2CL2_CGATGT_R1",
                   "2CL3_TGACCA_R1",
                   "2CL4_TGACCA_R1",
                   "2CL5_CTTGTA_R1",

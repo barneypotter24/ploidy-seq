@@ -14,3 +14,6 @@ gztmp/
 hisat2/
 cufflinks/
 htseq/
+
+# Other
+notes.txt

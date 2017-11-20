@@ -1,5 +1,6 @@
 {
-  "libraries" : [ "2WL1_CAGATC_R1", "2WL2_CAGATC_R1", "2WL3_ATCACG_R1", "2WL4_CAGATC_R1",
+  "libraries" : [ "2WL1_CAGATC_R1",
+                  "2WL2_CAGATC_R1", "2WL3_ATCACG_R1", "2WL4_CAGATC_R1",
                   "4WL1_CGATGT_R1", "4WL2_TTAGGC_R1", "4WL3_CCGTCC_R1",
                   "8204_1401_48974_CA73UANXX_2xWa5_CCGTCC_R1",
                   "8204_1401_48975_CA73UANXX_2xWa6_GTCCGC_R1",
@@ -7,5 +8,26 @@
                   "8204_1401_48977_CA73UANXX_4xWa4_GTGGCC_R1",
                   "8204_1401_48978_CA73UANXX_4xWa5_GTTTCG_R1",
                   "8204_1401_48979_CA73UANXX_4xWa6_CGTACG_R1",
-                  "8204_1401_48980_CA73UANXX_4xWa7_GAGTGG_R1" ]
+                  "8204_1401_48980_CA73UANXX_4xWa7_GAGTGG_R1",
+                  "2CL1_CGATGT_R1"
+                  "2CL2_CGATGT_R1",
+                  "2CL3_TGACCA_R1",
+                  "2CL4_TGACCA_R1",
+                  "2CL5_CTTGTA_R1",
+                  "2CL6_AGTCAA_R1",
+                  "2WsL3_TGACCA_R1",
+                  "2WsL4_ACAGTG_R1",
+                  "2WsL5_GCCAAT_R1",
+                  "2WsL6_CAGATC_R1",
+                  "4CL1_TGACCA_R1",
+                  "4CL2_TGACCA_R1",
+                  "4CL3_CAGATC_R1",
+                  "4CL4_CAGATC_R1",
+                  "4CL5_AGTTCC_R1",
+                  "4CL6_ATGTCA_R1",
+                  "4WsL1_ACTTGA_R1",
+                  "4WsL4_GATCAG_R1",
+                  "4WsL5_TAGCTT_R1",
+                  "4WsL6_GGCTAC_R1"
+                ]
 }

@@ -1,5 +1,6 @@
 # 2Cl
-iget -K /iplant/home/jcoate/Arabidopsis/2017/Fastq/2CL2_CGATCT_R1.fastq.gz
+iget -K /iplant/home/jcoate/Arabidopsis/2017/Fastq/2CL1_CGATGT_R1.fastq.gz
+iget -K /iplant/home/jcoate/Arabidopsis/2017/Fastq/2CL2_CGATGT_R1.fastq.gz
 iget -K /iplant/home/jcoate/Arabidopsis/2017/Fastq/2CL3_TGACCA_R1.fastq.gz
 iget -K /iplant/home/jcoate/Arabidopsis/2017/Fastq/2CL4_TGACCA_R1.fastq.gz
 iget -K /iplant/home/jcoate/Arabidopsis/2017/Fastq/2CL5_CTTGTA_R1.fastq.gz
