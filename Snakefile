@@ -1,4 +1,4 @@
-configfile: "config.json"
+configfile: "update_config.json"
 LIBRARIES = config['libraries']
 
 rule all:
