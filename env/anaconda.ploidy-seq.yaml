@@ -1,4 +1,4 @@
-name: ploidy-seq
+name: ploidy-seq-process
 channels:
 - bioconda
 - conda-forge

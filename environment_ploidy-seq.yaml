@@ -1,0 +1,16 @@
+name: ploidy-seq
+channels:
+- conda-forge
+- bioconda
+- defaults
+dependencies:
+- gitpython
+- ipykernel
+- ipython
+- jupyter
+- jupyterlab
+- matplotlib
+- nb_conda_kernels
+- numpy
+- pandas
+- python=3.6*

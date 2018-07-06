@@ -15,5 +15,7 @@ hisat2/
 cufflinks/
 htseq/
 
+data/
+
 # Other
 notes.txt
