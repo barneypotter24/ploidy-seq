@@ -1,44 +1,41 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  8 AUG 2019 15:17
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  8 AUG 2019 15:22
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**wgd.tex
-(./wgd.tex
+**wgd.bib
+(./wgd.bib
 LaTeX2e <2016/03/31>
 Babel <3.9r> and hyphenation patterns for 83 language(s) loaded.
-(/usr/local/texlive/2016/texmf-dist/tex/latex/base/article.cls
-Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
-(/usr/local/texlive/2016/texmf-dist/tex/latex/base/size11.clo
-File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
-)
-\c@part=\count79
-\c@section=\count80
-\c@subsection=\count81
-\c@subsubsection=\count82
-\c@paragraph=\count83
-\c@subparagraph=\count84
-\c@figure=\count85
-\c@table=\count86
-\abovecaptionskip=\skip41
-\belowcaptionskip=\skip42
-\bibindent=\dimen102
-)
-(/usr/local/texlive/2016/texmf-dist/tex/latex/preprint/fullpage.sty
-Package: fullpage 1999/02/23 1.1 (PWD)
-\FP@margin=\skip43
-)
-(/usr/local/texlive/2016/texmf-dist/tex/latex/natbib/natbib.sty
-Package: natbib 2010/09/13 8.31b (PWD, AO)
-\bibhang=\skip44
-\bibsep=\skip45
-LaTeX Info: Redefining \cite on input line 694.
-\c@NAT@ctr=\count87
-)
-(/usr/local/texlive/2016/texmf-dist/tex/latex/prettyref/prettyref.sty
-Package: prettyref 1998/07/09 v3.0
-)
-(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/graphicx.sty
+
+./wgd.bib:2: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 @
+     article{jiao2011,
+? 
+./wgd.bib:2: Emergency stop.
+ ...                                              
+                                                  
+l.2 @
+     article{jiao2011,
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+ 
+Here is how much of TeX's memory you used:
+ 7 strings out of 493014
+ 248 string characters out of 6133351
+ 53601 words of memory out of 5000000
+ 3648 multiletter control sequences out of 15000+600000
+ 3640 words of font info for 14 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 5i,0n,4p,28b,14s stack positions out of 5000i,500n,10000p,200000b,80000s
+./wgd.bib:2:  ==> Fatal error occurred, no output PDF file produced!
+/graphics/graphicx.sty
 Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/keyval.sty
@@ -516,27 +513,62 @@ Package natbib Warning: Citation `wang2016' on page 10 undefined on input line
 Package natbib Warning: Citation `sun2019' on page 10 undefined on input line 1
 88.
 
-[10] [11] (./wgd.bbl [12] [13]) [14]
+[10] (./wgd.bbl [11] [12] [13]) [14]
+<../figures/dup_history_GO_and_MN.png, id=301, 578.16pt x 650.43pt>
+File: ../figures/dup_history_GO_and_MN.png Graphic file (type png)
+
+<use ../figures/dup_history_GO_and_MN.png>
+Package pdftex.def Info: ../figures/dup_history_GO_and_MN.png used on input lin
+e 211.
+(pdftex.def)             Requested size: 469.75502pt x 528.47307pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<../figures/all_prv_boxen.png, id=303, 578.16pt x 578.16pt>
+File: ../figures/all_prv_boxen.png Graphic file (type png)
+
+<use ../figures/all_prv_boxen.png>
+Package pdftex.def Info: ../figures/all_prv_boxen.png used on input line 226.
+(pdftex.def)             Requested size: 469.75502pt x 469.75385pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<../figures/all_dr_boxen.png, id=304, 578.16pt x 578.16pt>
+File: ../figures/all_dr_boxen.png Graphic file (type png)
+
+<use ../figures/all_dr_boxen.png>
+Package pdftex.def Info: ../figures/all_dr_boxen.png used on input line 232.
+(pdftex.def)             Requested size: 469.75502pt x 469.75385pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
 
 Package natbib Warning: There were undefined citations.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 219.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 219.
-(./wgd.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 219.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 219.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 254.
+[15
+
+] [16 <../figures/dup_history_GO_and_MN.png>] [17 <../figures/all_prv_boxen.png
+>] [18 <../figures/all_dr_boxen.png>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 254.
+ (./wgd.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 254.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 254.
 Package rerunfilecheck Info: File `wgd.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 219.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 254.
  ) 
 Here is how much of TeX's memory you used:
- 8022 strings out of 493014
- 115191 string characters out of 6133351
- 214488 words of memory out of 5000000
- 11375 multiletter control sequences out of 15000+600000
+ 8055 strings out of 493014
+ 115833 string characters out of 6133351
+ 214504 words of memory out of 5000000
+ 11395 multiletter control sequences out of 15000+600000
  12347 words of font info for 46 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 37i,6n,39p,2016b,509s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 37i,6n,39p,2018b,513s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 </usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb>
@@ -549,10 +581,10 @@ l/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local
 /texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/t
 exlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/te
 xlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on wgd.pdf (14 pages, 180925 bytes).
+Output written on wgd.pdf (18 pages, 2618762 bytes).
 PDF statistics:
- 358 PDF objects out of 1000 (max. 8388607)
- 326 compressed objects within 4 object streams
- 73 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 389 PDF objects out of 1000 (max. 8388607)
+ 347 compressed objects within 4 object streams
+ 81 named destinations out of 1000 (max. 500000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,12 +1,9 @@
-\begin{thebibliography}{37}
+\begin{thebibliography}{38}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \providecommand{\urlprefix}{URL }
 
 \bibitem[{aru()}]{arumuganathan1991}
-???? .
-
-\bibitem[{can()}]{cannon2004}
 ???? .
 
 \bibitem[{Anders et~al.(2015)Anders, Pyl, and Huber}]{anders2015}
@@ -38,6 +35,13 @@ Blanc, G. and K.~H. Wolfe, 2004.
 Bolger, A.~M., M.~Lohse, and B.~Usadel, 2014.
 \newblock Trimmomatic: a flexible trimmer for illumina sequence data.
 \newblock Bioinformatics 30:2114--2120.
+
+\bibitem[{Cannon et~al.(2004)Cannon, Mitra, Baumgarten, Young, and
+  May}]{cannon2004}
+Cannon, S.~B., A.~Mitra, A.~Baumgarten, N.~D. Young, and G.~May, 2004.
+\newblock The roles of segmental and tandem gene duplication in the evolution
+  of large gene families in arabidopsis thaliana.
+\newblock BMC plant biology 4:10.
 
 \bibitem[{Coate and Doyle(2010)}]{coate2010}
 Coate, J.~E. and J.~J. Doyle, 2010.
@@ -219,6 +223,12 @@ Visger, C.~J., G.~K.-S. Wong, Y.~Zhang, P.~S. Soltis, and D.~E. Soltis, 2019.
 \newblock Divergent gene expression levels between diploid and autotetraploid
   tolmiea relative to the total transcriptome, the cell, and biomass.
 \newblock American journal of botany 106:280--291.
+
+\bibitem[{Wang et~al.(2013)Wang, Tan, and Paterson}]{wang2013}
+Wang, Y., X.~Tan, and A.~H. Paterson, 2013.
+\newblock Different patterns of gene structure divergence following gene
+  duplication in arabidopsis.
+\newblock BMC genomics 14:652.
 
 \bibitem[{Yu et~al.(2010)Yu, Haberer, Matthes, Rattei, Mayer, Gierl, and
   Torres-Ruiz}]{yu2010}

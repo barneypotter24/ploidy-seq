@@ -12,11 +12,6 @@ I was expecting a `,' or a `}'---line 327 of file wgd.bib
  :   title={Nuclear DNA content of some important plant species},
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-I was expecting a `,' or a `}'---line 377 of file wgd.bib
- :   
- :   title={The roles of segmental and tandem gene duplication in the evolution of large gene families in Arabidopsis thaliana},
-(Error may have been on previous line)
-I'm skipping whatever remains of this entry
 Warning--I didn't find a database entry for "pirrello2017"
 Warning--I didn't find a database entry for "guo1996"
 Warning--I didn't find a database entry for "riddle2010"
@@ -26,58 +21,53 @@ Warning--I didn't find a database entry for "zhou2011"
 Warning--I didn't find a database entry for "springer2010"
 Warning--I didn't find a database entry for "schnable2012"
 Warning--I didn't find a database entry for "rodgers-melnick2012"
-Warning--I didn't find a database entry for "tashdighian2018"
+Warning--I didn't find a database entry for "tashdighian2017"
 Warning--I didn't find a database entry for "wang2016"
 Warning--I didn't find a database entry for "sun2019"
 Warning--to sort, need author or key in arumuganathan1991
-Warning--to sort, need author or key in cannon2004
 Warning--empty author in arumuganathan1991
 Warning--empty year in arumuganathan1991; set to ????
 Warning--empty title in arumuganathan1991
 Warning--empty journal in arumuganathan1991
-Warning--empty author in cannon2004
-Warning--empty year in cannon2004; set to ????
-Warning--empty title in cannon2004
-Warning--empty journal in cannon2004
-You've used 37 entries,
+You've used 38 entries,
             2892 wiz_defined-function locations,
-            828 strings with 12015 characters,
-and the built_in function-call counts, 25625 in all, are:
-= -- 2061
-> -- 1511
+            838 strings with 12406 characters,
+and the built_in function-call counts, 26582 in all, are:
+= -- 2130
+> -- 1591
 < -- 14
-+ -- 500
-- -- 459
-* -- 1957
-:= -- 4046
-add.period$ -- 108
-call.type$ -- 37
-change.case$ -- 332
-chr.to.int$ -- 37
-cite$ -- 51
-duplicate$ -- 1763
-empty$ -- 1724
-format.name$ -- 582
-if$ -- 5086
++ -- 527
+- -- 483
+* -- 2026
+:= -- 4214
+add.period$ -- 113
+call.type$ -- 38
+change.case$ -- 346
+chr.to.int$ -- 38
+cite$ -- 45
+duplicate$ -- 1832
+empty$ -- 1775
+format.name$ -- 612
+if$ -- 5272
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 369
-newline$ -- 187
-num.names$ -- 140
-pop$ -- 733
+missing$ -- 385
+newline$ -- 194
+num.names$ -- 148
+pop$ -- 748
 preamble$ -- 1
-purify$ -- 297
+purify$ -- 309
 quote$ -- 0
-skip$ -- 503
+skip$ -- 516
 stack$ -- 0
-substring$ -- 1310
-swap$ -- 822
+substring$ -- 1336
+swap$ -- 863
 text.length$ -- 3
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 333
-warning$ -- 10
-while$ -- 172
+type$ -- 342
+warning$ -- 5
+while$ -- 180
 width$ -- 0
-write$ -- 475
-(There were 3 error messages)
+write$ -- 494
+(There were 2 error messages)
