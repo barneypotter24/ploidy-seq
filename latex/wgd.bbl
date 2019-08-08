@@ -1,0 +1,224 @@
+\begin{thebibliography}{35}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\urlprefix}{URL }
+
+\bibitem[{aru()}]{arumuganathan1991}
+???? .
+
+\bibitem[{can()}]{cannon2004}
+???? .
+
+\bibitem[{Anders et~al.(2015)Anders, Pyl, and Huber}]{anders2015}
+Anders, S., P.~T. Pyl, and W.~Huber, 2015.
+\newblock Htseq?a python framework to work with high-throughput sequencing
+  data.
+\newblock Bioinformatics 31:166--169.
+
+\bibitem[{Birchler and Veitia(2012)}]{birchler2012}
+Birchler, J.~A. and R.~A. Veitia, 2012.
+\newblock Gene balance hypothesis: connecting issues of dosage sensitivity
+  across biological disciplines.
+\newblock Proceedings of the National Academy of Sciences 109:14746--14753.
+
+\bibitem[{Blanc and Wolfe(2004)}]{blanc2004}
+Blanc, G. and K.~H. Wolfe, 2004.
+\newblock Functional divergence of duplicated genes formed by polyploidy during
+  arabidopsis evolution.
+\newblock The Plant Cell 16:1679--1691.
+
+\bibitem[{Bolger et~al.(2014)Bolger, Lohse, and Usadel}]{bolger2014}
+Bolger, A.~M., M.~Lohse, and B.~Usadel, 2014.
+\newblock Trimmomatic: a flexible trimmer for illumina sequence data.
+\newblock Bioinformatics 30:2114--2120.
+
+\bibitem[{Coate and Doyle(2010)}]{coate2010}
+Coate, J.~E. and J.~J. Doyle, 2010.
+\newblock Quantifying whole transcriptome size, a prerequisite for
+  understanding transcriptome evolution across species: an example from a plant
+  allopolyploid.
+\newblock Genome biology and evolution 2:534--546.
+
+\bibitem[{Coate et~al.(2016)Coate, Song, Bombarely, and Doyle}]{coate2016}
+Coate, J.~E., M.~J. Song, A.~Bombarely, and J.~J. Doyle, 2016.
+\newblock Expression-level support for gene dosage sensitivity in three glycine
+  subgenus glycine polyploids and their diploid progenitors.
+\newblock New Phytologist 212:1083--1093.
+
+\bibitem[{Conant et~al.(2014)Conant, Birchler, and Pires}]{conant2014}
+Conant, G.~C., J.~A. Birchler, and J.~C. Pires, 2014.
+\newblock Dosage, duplication, and diploidization: clarifying the interplay of
+  multiple models for duplicate gene evolution over time.
+\newblock Current opinion in plant biology 19:91--98.
+
+\bibitem[{Dong et~al.(2019)Dong, Lau, Song, Ierullo, Esteban, Wu, Sivieng,
+  Nahal, Gaudinier, Pasha et~al.}]{dong2019}
+Dong, S., V.~Lau, R.~Song, M.~Ierullo, E.~Esteban, Y.~Wu, T.~Sivieng, H.~Nahal,
+  A.~Gaudinier, A.~Pasha, et~al., 2019.
+\newblock Proteome-wide, structure-based prediction of protein-protein
+  interactions/new molecular interactions viewer.
+\newblock Plant physiology 179:1893--1907.
+
+\bibitem[{Doyle and Coate(2019)}]{doyle2019}
+Doyle, J.~J. and J.~E. Coate, 2019.
+\newblock Polyploidy, the nucleotype, and novelty: The impact of genome
+  doubling on the biology of the cell.
+\newblock International Journal of Plant Sciences 180:1--52.
+
+\bibitem[{Edger et~al.(2018)Edger, Hall, Harkess, Tang, Coombs, Mohammadin,
+  Schranz, Xiong, Leebens-Mack, Meyers et~al.}]{edger2018}
+Edger, P.~P., J.~C. Hall, A.~Harkess, M.~Tang, J.~Coombs, S.~Mohammadin, M.~E.
+  Schranz, Z.~Xiong, J.~Leebens-Mack, B.~C. Meyers, et~al., 2018.
+\newblock Brassicales phylogeny inferred from 72 plastid genes: A reanalysis of
+  the phylogenetic localization of two paleopolyploid events and origin of
+  novel chemical defenses.
+\newblock American journal of botany 105:463--469.
+
+\bibitem[{Edger and Pires(2009)}]{edger2009}
+Edger, P.~P. and J.~C. Pires, 2009.
+\newblock Gene and genome duplications: the impact of dosage-sensitivity on the
+  fate of nuclear genes.
+\newblock Chromosome Research 17:699.
+
+\bibitem[{Freeling(2009)}]{freeling2009}
+Freeling, M., 2009.
+\newblock Bias in plant gene content following different sorts of duplication:
+  tandem, whole-genome, segmental, or by transposition.
+\newblock Annual review of plant biology 60:433--453.
+
+\bibitem[{Hou et~al.(2018)Hou, Shi, Chen, Islam, Johnson, Kanno, Huettel, Yen,
+  Hsu, Ji et~al.}]{hou2018}
+Hou, J., X.~Shi, C.~Chen, M.~S. Islam, A.~F. Johnson, T.~Kanno, B.~Huettel,
+  M.-R. Yen, F.-M. Hsu, T.~Ji, et~al., 2018.
+\newblock Global impacts of chromosomal imbalance on gene expression in
+  arabidopsis and other taxa.
+\newblock Proceedings of the National Academy of Sciences 115:E11321--E11330.
+
+\bibitem[{Katju and Bergthorsson(2018)}]{katju2018}
+Katju, V. and U.~Bergthorsson, 2018.
+\newblock Old trade, new tricks: insights into the spontaneous mutation process
+  from the partnering of classical mutation accumulation experiments with
+  high-throughput genomic approaches.
+\newblock Genome biology and evolution 11:136--165.
+
+\bibitem[{Konrad et~al.(2018)Konrad, Flibotte, Taylor, Waterston, Moerman,
+  Bergthorsson, and Katju}]{konrad2018}
+Konrad, A., S.~Flibotte, J.~Taylor, R.~H. Waterston, D.~G. Moerman,
+  U.~Bergthorsson, and V.~Katju, 2018.
+\newblock Mutational and transcriptional landscape of spontaneous gene
+  duplications and deletions in caenorhabditis elegans.
+\newblock Proceedings of the National Academy of Sciences 115:7386--7391.
+
+\bibitem[{Langham et~al.(2004)Langham, Walsh, Dunn, Ko, Goff, and
+  Freeling}]{langham2004}
+Langham, R.~J., J.~Walsh, M.~Dunn, C.~Ko, S.~A. Goff, and M.~Freeling, 2004.
+\newblock Genomic duplication, fractionation and the origin of regulatory
+  novelty.
+\newblock Genetics 166:935--945.
+
+\bibitem[{Liu et~al.(2017)Liu, Cheng, Wang, and Weigel}]{liu2017}
+Liu, C., Y.-J. Cheng, J.-W. Wang, and D.~Weigel, 2017.
+\newblock Prominent topologically associated domains differentiate global
+  chromatin packing in rice from arabidopsis.
+\newblock Nature plants 3:742.
+
+\bibitem[{Love et~al.(2014)Love, Huber, and Anders}]{love2014}
+Love, M.~I., W.~Huber, and S.~Anders, 2014.
+\newblock Moderated estimation of fold change and dispersion for rna-seq data
+  with deseq2.
+\newblock Genome biology 15:550.
+
+\bibitem[{Lynch and Conery(2000)}]{lynch2000}
+Lynch, M. and J.~S. Conery, 2000.
+\newblock The evolutionary fate and consequences of duplicate genes.
+\newblock Science 290:1151--1155.
+
+\bibitem[{Lynch and Conery(2003)}]{lynch2003a}
+---{}---{}---, 2003.
+\newblock The evolutionary demography of duplicate genes.
+\newblock Pp. 35--44, \emph{in} Genome Evolution. Springer.
+
+\bibitem[{Panchy et~al.(2016)Panchy, Lehti-Shiu, and Shiu}]{panchy2016}
+Panchy, N., M.~Lehti-Shiu, and S.-H. Shiu, 2016.
+\newblock Evolution of gene duplication in plants.
+\newblock Plant physiology 171:2294--2316.
+
+\bibitem[{Papp et~al.(2003)Papp, Pal, and Hurst}]{papp2003}
+Papp, B., C.~Pal, and L.~D. Hurst, 2003.
+\newblock Dosage sensitivity and the evolution of gene families in yeast.
+\newblock Nature 424:194.
+
+\bibitem[{Pertea et~al.(2016)Pertea, Kim, Pertea, Leek, and
+  Salzberg}]{pertea2016}
+Pertea, M., D.~Kim, G.~M. Pertea, J.~T. Leek, and S.~L. Salzberg, 2016.
+\newblock Transcript-level expression analysis of rna-seq experiments with
+  hisat, stringtie and ballgown.
+\newblock Nature protocols 11:1650.
+
+\bibitem[{Qian et~al.(2010)Qian, Liao, Chang, and Zhang}]{qian2010}
+Qian, W., B.-Y. Liao, A.~Y.-F. Chang, and J.~Zhang, 2010.
+\newblock Maintenance of duplicate genes and their functional redundancy by
+  reduced expression.
+\newblock Trends in Genetics 26:425--430.
+
+\bibitem[{Ravi and Chan(2010)}]{ravi2010}
+Ravi, M. and S.~W. Chan, 2010.
+\newblock Haploid plants produced by centromere-mediated genome elimination.
+\newblock Nature 464:615.
+
+\bibitem[{Robinson et~al.(2018)Robinson, Coate, Singh, Hong, Bush, Doyle, and
+  Roeder}]{robinson2018}
+Robinson, D.~O., J.~E. Coate, A.~Singh, L.~Hong, M.~Bush, J.~J. Doyle, and
+  A.~H. Roeder, 2018.
+\newblock Ploidy and size at multiple scales in the arabidopsis sepal.
+\newblock The Plant Cell 30:2308--2329.
+
+\bibitem[{Schlapfer et~al.(2017)Schlapfer, Zhang, Wang, Kim, Banf, Chae,
+  Dreher, Chavali, Nilo-Poyanco, Bernard et~al.}]{schlapfer2017}
+Schlapfer, P., P.~Zhang, C.~Wang, T.~Kim, M.~Banf, L.~Chae, K.~Dreher, A.~K.
+  Chavali, R.~Nilo-Poyanco, T.~Bernard, et~al., 2017.
+\newblock Genome-wide prediction of metabolic enzymes, pathways and gene
+  clusters in plants.
+\newblock Plant physiology Pp. pp--01942.
+
+\bibitem[{Schnable et~al.(2011)Schnable, Springer, and Freeling}]{schnable2011}
+Schnable, J.~C., N.~M. Springer, and M.~Freeling, 2011.
+\newblock Differentiation of the maize subgenomes by genome dominance and both
+  ancient and ongoing gene loss.
+\newblock Proceedings of the National Academy of Sciences 108:4069--4074.
+
+\bibitem[{Spoelhof et~al.(2017)Spoelhof, Soltis, and Soltis}]{spoelhof2017}
+Spoelhof, J.~P., P.~S. Soltis, and D.~E. Soltis, 2017.
+\newblock Pure polyploidy: closing the gaps in autopolyploid research.
+\newblock Journal of systematics and evolution 55:340--352.
+
+\bibitem[{Tasdighian et~al.(2017)Tasdighian, Van~Bel, Li, Van~de Peer,
+  Carretero-Paulet, and Maere}]{tasdighian2017}
+Tasdighian, S., M.~Van~Bel, Z.~Li, Y.~Van~de Peer, L.~Carretero-Paulet, and
+  S.~Maere, 2017.
+\newblock Reciprocally retained genes in the angiosperm lineage show the
+  hallmarks of dosage balance sensitivity.
+\newblock The Plant Cell Pp. tpc--00313.
+
+\bibitem[{Visger et~al.(2019)Visger, Wong, Zhang, Soltis, and
+  Soltis}]{visger2019}
+Visger, C.~J., G.~K.-S. Wong, Y.~Zhang, P.~S. Soltis, and D.~E. Soltis, 2019.
+\newblock Divergent gene expression levels between diploid and autotetraploid
+  tolmiea relative to the total transcriptome, the cell, and biomass.
+\newblock American journal of botany 106:280--291.
+
+\bibitem[{Yu et~al.(2010)Yu, Haberer, Matthes, Rattei, Mayer, Gierl, and
+  Torres-Ruiz}]{yu2010}
+Yu, Z., G.~Haberer, M.~Matthes, T.~Rattei, K.~F. Mayer, A.~Gierl, and R.~A.
+  Torres-Ruiz, 2010.
+\newblock Impact of natural genetic variation on the transcriptome of
+  autotetraploid arabidopsis thaliana.
+\newblock Proceedings of the National Academy of Sciences 107:17809--17814.
+
+\bibitem[{Zhang et~al.(2015)Zhang, Liu, Xia, Yao, Liu, and Gao}]{zhang2015}
+Zhang, J., Y.~Liu, E.-H. Xia, Q.-Y. Yao, X.-D. Liu, and L.-Z. Gao, 2015.
+\newblock Autotetraploid rice methylome analysis reveals methylation variation
+  of transposable elements and their effects on gene expression.
+\newblock Proceedings of the National Academy of Sciences 112:E7022--E7029.
+
+\end{thebibliography}

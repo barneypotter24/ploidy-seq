@@ -1,0 +1,85 @@
+This is BibTeX, Version 0.99d (TeX Live 2016)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: wgd.aux
+White space in argument---line 31 of file wgd.aux
+ : \citation{hou2018,guo1996,riddle2010,robinson2018,stupar2007,yu2010
+ :                                                                     }
+I'm skipping whatever remains of this command
+The style file: evolution.bst
+Database file #1: wgd.bib
+I was expecting a `,' or a `}'---line 338 of file wgd.bib
+ :   
+ :   title={Nuclear DNA content of some important plant species},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 388 of file wgd.bib
+ :   
+ :   title={The roles of segmental and tandem gene duplication in the evolution of large gene families in Arabidopsis thaliana},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Warning--I didn't find a database entry for "barker2009"
+Warning--I didn't find a database entry for "pirrello2017"
+Warning--I didn't find a database entry for "guo1996"
+Warning--I didn't find a database entry for "riddle2010"
+Warning--I didn't find a database entry for "stupar2007"
+Warning--I didn't find a database entry for "rogers2018"
+Warning--I didn't find a database entry for "zhou2011"
+Warning--I didn't find a database entry for "springer2010"
+Warning--I didn't find a database entry for "coate2011"
+Warning--I didn't find a database entry for "schnable2012"
+Warning--I didn't find a database entry for "rodgers-melnick2012"
+Warning--I didn't find a database entry for "tashdighian2018"
+Warning--I didn't find a database entry for "wang2016"
+Warning--I didn't find a database entry for "sun2019"
+Warning--to sort, need author or key in arumuganathan1991
+Warning--to sort, need author or key in cannon2004
+Warning--empty author in arumuganathan1991
+Warning--empty year in arumuganathan1991; set to ????
+Warning--empty title in arumuganathan1991
+Warning--empty journal in arumuganathan1991
+Warning--empty author in cannon2004
+Warning--empty year in cannon2004; set to ????
+Warning--empty title in cannon2004
+Warning--empty journal in cannon2004
+You've used 35 entries,
+            2892 wiz_defined-function locations,
+            820 strings with 11635 characters,
+and the built_in function-call counts, 24418 in all, are:
+= -- 1954
+> -- 1458
+< -- 13
++ -- 483
+- -- 444
+* -- 1870
+:= -- 3856
+add.period$ -- 102
+call.type$ -- 35
+change.case$ -- 317
+chr.to.int$ -- 35
+cite$ -- 49
+duplicate$ -- 1678
+empty$ -- 1635
+format.name$ -- 559
+if$ -- 4844
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 352
+newline$ -- 177
+num.names$ -- 132
+pop$ -- 701
+preamble$ -- 1
+purify$ -- 284
+quote$ -- 0
+skip$ -- 477
+stack$ -- 0
+substring$ -- 1238
+swap$ -- 783
+text.length$ -- 3
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 315
+warning$ -- 10
+while$ -- 162
+width$ -- 0
+write$ -- 449
+(There were 3 error messages)
