@@ -26,3 +26,5 @@ data/
 # Other
 notes.txt
 tmp*
+.DS_Store
+.ipynb_checkpoints
