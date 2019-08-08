@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  8 AUG 2019 15:08
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  8 AUG 2019 15:17
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -452,10 +452,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 58--59
 
 {/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 
-Package natbib Warning: Citation `barker2009' on page 2 undefined on input line
- 86.
-
-
 Package natbib Warning: Citation `pirrello2017' on page 2 undefined on input li
 ne 92.
 
@@ -475,9 +471,7 @@ Package natbib Warning: Citation `stupar2007' on page 2 undefined on input line
 Package natbib Warning: Citation `yu2010 ' on page 2 undefined on input line 92
 .
 
-[2] [3]
-Missing character: There is no µ in font cmr10!
- [4]
+[2] [3] [4]
 Overfull \hbox (15.3125pt too wide) in paragraph at lines 116--117
 []\OT1/cmr/m/n/10.95 All scripts for data pro-cess-ing are avail-able on GitHub
  (https://github.com/barneypotter24/ploidy-
@@ -502,10 +496,6 @@ ne 166.
 
 [8]
 
-Package natbib Warning: Citation `coate2011' on page 9 undefined on input line 
-176.
-
-
 Package natbib Warning: Citation `schnable2012' on page 9 undefined on input li
 ne 176.
 
@@ -515,7 +505,7 @@ nput line 176.
 
 [9]
 
-Package natbib Warning: Citation `tashdighian2018' on page 10 undefined on inpu
+Package natbib Warning: Citation `tashdighian2017' on page 10 undefined on inpu
 t line 181.
 
 
@@ -540,13 +530,13 @@ Package rerunfilecheck Info: File `wgd.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 219.
  ) 
 Here is how much of TeX's memory you used:
- 8016 strings out of 493014
- 115080 string characters out of 6133351
- 213394 words of memory out of 5000000
- 11371 multiletter control sequences out of 15000+600000
+ 8022 strings out of 493014
+ 115191 string characters out of 6133351
+ 214488 words of memory out of 5000000
+ 11375 multiletter control sequences out of 15000+600000
  12347 words of font info for 46 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 37i,6n,39p,2016b,507s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 37i,6n,39p,2016b,509s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 </usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb>
@@ -559,10 +549,10 @@ l/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local
 /texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/t
 exlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/te
 xlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on wgd.pdf (14 pages, 179645 bytes).
+Output written on wgd.pdf (14 pages, 180925 bytes).
 PDF statistics:
- 348 PDF objects out of 1000 (max. 8388607)
- 316 compressed objects within 4 object streams
- 71 named destinations out of 1000 (max. 500000)
+ 358 PDF objects out of 1000 (max. 8388607)
+ 326 compressed objects within 4 object streams
+ 73 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

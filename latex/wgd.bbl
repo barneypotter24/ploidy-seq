@@ -1,4 +1,4 @@
-\begin{thebibliography}{35}
+\begin{thebibliography}{37}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \providecommand{\urlprefix}{URL }
@@ -14,6 +14,13 @@ Anders, S., P.~T. Pyl, and W.~Huber, 2015.
 \newblock Htseq?a python framework to work with high-throughput sequencing
   data.
 \newblock Bioinformatics 31:166--169.
+
+\bibitem[{Barker et~al.(2009)Barker, Vogel, and Schranz}]{barker2009}
+Barker, M.~S., H.~Vogel, and M.~E. Schranz, 2009.
+\newblock Paleopolyploidy in the brassicales: analyses of the cleome
+  transcriptome elucidate the history of genome duplications in arabidopsis and
+  other brassicales.
+\newblock Genome biology and evolution 1:391--399.
 
 \bibitem[{Birchler and Veitia(2012)}]{birchler2012}
 Birchler, J.~A. and R.~A. Veitia, 2012.
@@ -38,6 +45,12 @@ Coate, J.~E. and J.~J. Doyle, 2010.
   understanding transcriptome evolution across species: an example from a plant
   allopolyploid.
 \newblock Genome biology and evolution 2:534--546.
+
+\bibitem[{Coate and Doyle(2011)}]{coate2011}
+---{}---{}---, 2011.
+\newblock Divergent evolutionary fates of major photosynthetic gene networks
+  following gene and whole genome duplications.
+\newblock Plant signaling \& behavior 6:594--597.
 
 \bibitem[{Coate et~al.(2016)Coate, Song, Bombarely, and Doyle}]{coate2016}
 Coate, J.~E., M.~J. Song, A.~Bombarely, and J.~J. Doyle, 2016.

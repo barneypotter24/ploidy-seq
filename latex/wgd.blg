@@ -7,17 +7,16 @@ White space in argument---line 31 of file wgd.aux
 I'm skipping whatever remains of this command
 The style file: evolution.bst
 Database file #1: wgd.bib
-I was expecting a `,' or a `}'---line 338 of file wgd.bib
+I was expecting a `,' or a `}'---line 327 of file wgd.bib
  :   
  :   title={Nuclear DNA content of some important plant species},
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-I was expecting a `,' or a `}'---line 388 of file wgd.bib
+I was expecting a `,' or a `}'---line 377 of file wgd.bib
  :   
  :   title={The roles of segmental and tandem gene duplication in the evolution of large gene families in Arabidopsis thaliana},
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-Warning--I didn't find a database entry for "barker2009"
 Warning--I didn't find a database entry for "pirrello2017"
 Warning--I didn't find a database entry for "guo1996"
 Warning--I didn't find a database entry for "riddle2010"
@@ -25,7 +24,6 @@ Warning--I didn't find a database entry for "stupar2007"
 Warning--I didn't find a database entry for "rogers2018"
 Warning--I didn't find a database entry for "zhou2011"
 Warning--I didn't find a database entry for "springer2010"
-Warning--I didn't find a database entry for "coate2011"
 Warning--I didn't find a database entry for "schnable2012"
 Warning--I didn't find a database entry for "rodgers-melnick2012"
 Warning--I didn't find a database entry for "tashdighian2018"
@@ -41,45 +39,45 @@ Warning--empty author in cannon2004
 Warning--empty year in cannon2004; set to ????
 Warning--empty title in cannon2004
 Warning--empty journal in cannon2004
-You've used 35 entries,
+You've used 37 entries,
             2892 wiz_defined-function locations,
-            820 strings with 11635 characters,
-and the built_in function-call counts, 24418 in all, are:
-= -- 1954
-> -- 1458
-< -- 13
-+ -- 483
-- -- 444
-* -- 1870
-:= -- 3856
-add.period$ -- 102
-call.type$ -- 35
-change.case$ -- 317
-chr.to.int$ -- 35
-cite$ -- 49
-duplicate$ -- 1678
-empty$ -- 1635
-format.name$ -- 559
-if$ -- 4844
+            828 strings with 12015 characters,
+and the built_in function-call counts, 25625 in all, are:
+= -- 2061
+> -- 1511
+< -- 14
++ -- 500
+- -- 459
+* -- 1957
+:= -- 4046
+add.period$ -- 108
+call.type$ -- 37
+change.case$ -- 332
+chr.to.int$ -- 37
+cite$ -- 51
+duplicate$ -- 1763
+empty$ -- 1724
+format.name$ -- 582
+if$ -- 5086
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 352
-newline$ -- 177
-num.names$ -- 132
-pop$ -- 701
+missing$ -- 369
+newline$ -- 187
+num.names$ -- 140
+pop$ -- 733
 preamble$ -- 1
-purify$ -- 284
+purify$ -- 297
 quote$ -- 0
-skip$ -- 477
+skip$ -- 503
 stack$ -- 0
-substring$ -- 1238
-swap$ -- 783
+substring$ -- 1310
+swap$ -- 822
 text.length$ -- 3
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 315
+type$ -- 333
 warning$ -- 10
-while$ -- 162
+while$ -- 172
 width$ -- 0
-write$ -- 449
+write$ -- 475
 (There were 3 error messages)
