@@ -1,73 +1,51 @@
 This is BibTeX, Version 0.99d (TeX Live 2016)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: wgd.aux
-White space in argument---line 31 of file wgd.aux
- : \citation{hou2018,guo1996,riddle2010,robinson2018,stupar2007,yu2010
- :                                                                     }
-I'm skipping whatever remains of this command
 The style file: evolution.bst
 Database file #1: wgd.bib
-I was expecting a `,' or a `}'---line 327 of file wgd.bib
- :   
- :   title={Nuclear DNA content of some important plant species},
-(Error may have been on previous line)
+Repeated entry---line 570 of file wgd.bib
+ : @article{wang2015
+ :                  ,
 I'm skipping whatever remains of this entry
-Warning--I didn't find a database entry for "pirrello2017"
-Warning--I didn't find a database entry for "guo1996"
-Warning--I didn't find a database entry for "riddle2010"
-Warning--I didn't find a database entry for "stupar2007"
-Warning--I didn't find a database entry for "rogers2018"
-Warning--I didn't find a database entry for "zhou2011"
-Warning--I didn't find a database entry for "springer2010"
-Warning--I didn't find a database entry for "schnable2012"
-Warning--I didn't find a database entry for "rodgers-melnick2012"
-Warning--I didn't find a database entry for "tashdighian2017"
-Warning--I didn't find a database entry for "wang2016"
-Warning--I didn't find a database entry for "sun2019"
-Warning--to sort, need author or key in arumuganathan1991
-Warning--empty author in arumuganathan1991
-Warning--empty year in arumuganathan1991; set to ????
-Warning--empty title in arumuganathan1991
-Warning--empty journal in arumuganathan1991
-You've used 38 entries,
+You've used 49 entries,
             2892 wiz_defined-function locations,
-            838 strings with 12406 characters,
-and the built_in function-call counts, 26582 in all, are:
-= -- 2130
-> -- 1591
-< -- 14
-+ -- 527
-- -- 483
-* -- 2026
-:= -- 4214
-add.period$ -- 113
-call.type$ -- 38
-change.case$ -- 346
-chr.to.int$ -- 38
-cite$ -- 45
-duplicate$ -- 1832
-empty$ -- 1775
-format.name$ -- 612
-if$ -- 5272
+            895 strings with 14996 characters,
+and the built_in function-call counts, 35139 in all, are:
+= -- 2778
+> -- 2204
+< -- 15
++ -- 731
+- -- 672
+* -- 2699
+:= -- 5603
+add.period$ -- 148
+call.type$ -- 49
+change.case$ -- 463
+chr.to.int$ -- 49
+cite$ -- 49
+duplicate$ -- 2411
+empty$ -- 2296
+format.name$ -- 839
+if$ -- 6943
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 385
-newline$ -- 194
-num.names$ -- 148
-pop$ -- 748
+missing$ -- 514
+newline$ -- 251
+num.names$ -- 196
+pop$ -- 978
 preamble$ -- 1
-purify$ -- 309
+purify$ -- 414
 quote$ -- 0
-skip$ -- 516
+skip$ -- 655
 stack$ -- 0
-substring$ -- 1336
-swap$ -- 863
+substring$ -- 1713
+swap$ -- 1145
 text.length$ -- 3
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 342
-warning$ -- 5
-while$ -- 180
+type$ -- 441
+warning$ -- 0
+while$ -- 235
 width$ -- 0
-write$ -- 494
-(There were 2 error messages)
+write$ -- 642
+(There was 1 error message)

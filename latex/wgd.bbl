@@ -1,16 +1,18 @@
-\begin{thebibliography}{38}
+\begin{thebibliography}{49}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \providecommand{\urlprefix}{URL }
 
-\bibitem[{aru()}]{arumuganathan1991}
-???? .
-
 \bibitem[{Anders et~al.(2015)Anders, Pyl, and Huber}]{anders2015}
 Anders, S., P.~T. Pyl, and W.~Huber, 2015.
-\newblock Htseq?a python framework to work with high-throughput sequencing
+\newblock Htseq-a python framework to work with high-throughput sequencing
   data.
 \newblock Bioinformatics 31:166--169.
+
+\bibitem[{Arumuganathan and Earle(1991)}]{arumuganathan1991}
+Arumuganathan, K. and E.~Earle, 1991.
+\newblock Nuclear dna content of some important plant species.
+\newblock Plant molecular biology reporter 9:208--218.
 
 \bibitem[{Barker et~al.(2009)Barker, Vogel, and Schranz}]{barker2009}
 Barker, M.~S., H.~Vogel, and M.~E. Schranz, 2009.
@@ -103,6 +105,11 @@ Freeling, M., 2009.
   tandem, whole-genome, segmental, or by transposition.
 \newblock Annual review of plant biology 60:433--453.
 
+\bibitem[{Guo et~al.(1996)Guo, Davis, and Birchler}]{guo1996}
+Guo, M., D.~Davis, and J.~A. Birchler, 1996.
+\newblock Dosage effects on gene expression in a maize ploidy series.
+\newblock Genetics 142:1349--1355.
+
 \bibitem[{Hou et~al.(2018)Hou, Shi, Chen, Islam, Johnson, Kanno, Huettel, Yen,
   Hsu, Ji et~al.}]{hou2018}
 Hou, J., X.~Shi, C.~Chen, M.~S. Islam, A.~F. Johnson, T.~Kanno, B.~Huettel,
@@ -172,6 +179,15 @@ Pertea, M., D.~Kim, G.~M. Pertea, J.~T. Leek, and S.~L. Salzberg, 2016.
   hisat, stringtie and ballgown.
 \newblock Nature protocols 11:1650.
 
+\bibitem[{Pirrello et~al.(2018)Pirrello, Deluche, Frangne, Gevaudant, Maza,
+  Djari, Bourge, Renaudin, Brown, Bowler et~al.}]{pirrello2018}
+Pirrello, J., C.~Deluche, N.~Frangne, F.~Gevaudant, E.~Maza, A.~Djari,
+  M.~Bourge, J.-P. Renaudin, S.~Brown, C.~Bowler, et~al., 2018.
+\newblock Transcriptome profiling of sorted endoreduplicated nuclei from tomato
+  fruits: how the global shift in expression ascribed to dna ploidy influences
+  rna-seq data normalization and interpretation.
+\newblock The Plant Journal 93:387--398.
+
 \bibitem[{Qian et~al.(2010)Qian, Liao, Chang, and Zhang}]{qian2010}
 Qian, W., B.-Y. Liao, A.~Y.-F. Chang, and J.~Zhang, 2010.
 \newblock Maintenance of duplicate genes and their functional redundancy by
@@ -183,12 +199,31 @@ Ravi, M. and S.~W. Chan, 2010.
 \newblock Haploid plants produced by centromere-mediated genome elimination.
 \newblock Nature 464:615.
 
+\bibitem[{Riddle et~al.(2006)Riddle, Kato, and Birchler}]{riddle2006}
+Riddle, N.~C., A.~Kato, and J.~A. Birchler, 2006.
+\newblock Genetic variation for the response to ploidy change in zea mays l.
+\newblock Theoretical and Applied Genetics 114:101--111.
+
 \bibitem[{Robinson et~al.(2018)Robinson, Coate, Singh, Hong, Bush, Doyle, and
   Roeder}]{robinson2018}
 Robinson, D.~O., J.~E. Coate, A.~Singh, L.~Hong, M.~Bush, J.~J. Doyle, and
   A.~H. Roeder, 2018.
 \newblock Ploidy and size at multiple scales in the arabidopsis sepal.
 \newblock The Plant Cell 30:2308--2329.
+
+\bibitem[{Rodgers-Melnick et~al.(2012)Rodgers-Melnick, Mane, Dharmawardhana,
+  Slavov, Crasta, Strauss, Brunner, and DiFazio}]{rodgers2012}
+Rodgers-Melnick, E., S.~P. Mane, P.~Dharmawardhana, G.~T. Slavov, O.~R. Crasta,
+  S.~H. Strauss, A.~M. Brunner, and S.~P. DiFazio, 2012.
+\newblock Contrasting patterns of evolution following whole genome versus
+  tandem duplication events in populus.
+\newblock Genome research 22:95--105.
+
+\bibitem[{Rogers et~al.(2017)Rogers, Shao, and Thornton}]{rogers2017}
+Rogers, R.~L., L.~Shao, and K.~R. Thornton, 2017.
+\newblock Tandem duplications lead to novel expression patterns through exon
+  shuffling in drosophila yakuba.
+\newblock PLoS genetics 13:e1006795.
 
 \bibitem[{Schlapfer et~al.(2017)Schlapfer, Zhang, Wang, Kim, Banf, Chae,
   Dreher, Chavali, Nilo-Poyanco, Bernard et~al.}]{schlapfer2017}
@@ -204,10 +239,38 @@ Schnable, J.~C., N.~M. Springer, and M.~Freeling, 2011.
   ancient and ongoing gene loss.
 \newblock Proceedings of the National Academy of Sciences 108:4069--4074.
 
+\bibitem[{Schnable et~al.(2012)Schnable, Wang, Pires, and
+  Freeling}]{schnable2012}
+Schnable, J.~C., X.~Wang, J.~C. Pires, and M.~Freeling, 2012.
+\newblock Escape from preferential retention following repeated whole genome
+  duplications in plants.
+\newblock Frontiers in plant science 3:94.
+
 \bibitem[{Spoelhof et~al.(2017)Spoelhof, Soltis, and Soltis}]{spoelhof2017}
 Spoelhof, J.~P., P.~S. Soltis, and D.~E. Soltis, 2017.
 \newblock Pure polyploidy: closing the gaps in autopolyploid research.
 \newblock Journal of systematics and evolution 55:340--352.
+
+\bibitem[{Springer et~al.(2010)Springer, Weissman, and
+  Kirschner}]{springer2010}
+Springer, M., J.~S. Weissman, and M.~W. Kirschner, 2010.
+\newblock A general lack of compensation for gene dosage in yeast.
+\newblock Molecular systems biology 6:368.
+
+\bibitem[{Stupar et~al.(2007)Stupar, Bhaskar, Yandell, Rensink, Hart, Ouyang,
+  Veilleux, Busse, Erhardt, Buell et~al.}]{stupar2007}
+Stupar, R.~M., P.~B. Bhaskar, B.~S. Yandell, W.~A. Rensink, A.~L. Hart,
+  S.~Ouyang, R.~E. Veilleux, J.~S. Busse, R.~J. Erhardt, C.~R. Buell, et~al.,
+  2007.
+\newblock Phenotypic and transcriptomic changes associated with potato
+  autopolyploidization.
+\newblock Genetics 176:2055--2067.
+
+\bibitem[{Sun et~al.(2019)Sun, Shi, and Yildirim}]{sun2019}
+Sun, J., Y.~Shi, and E.~Yildirim, 2019.
+\newblock The nuclear pore complex in cell type-specific chromatin structure
+  and gene regulation.
+\newblock Trends in Genetics .
 
 \bibitem[{Tasdighian et~al.(2017)Tasdighian, Van~Bel, Li, Van~de Peer,
   Carretero-Paulet, and Maere}]{tasdighian2017}
@@ -223,6 +286,14 @@ Visger, C.~J., G.~K.-S. Wong, Y.~Zhang, P.~S. Soltis, and D.~E. Soltis, 2019.
 \newblock Divergent gene expression levels between diploid and autotetraploid
   tolmiea relative to the total transcriptome, the cell, and biomass.
 \newblock American journal of botany 106:280--291.
+
+\bibitem[{Wang et~al.(2015)Wang, Liu, Roqueiro, Grimm, Schwab, Becker, Lanz,
+  and Weigel}]{wang2015}
+Wang, C., C.~Liu, D.~Roqueiro, D.~Grimm, R.~Schwab, C.~Becker, C.~Lanz, and
+  D.~Weigel, 2015.
+\newblock Genome-wide analysis of local chromatin packing in arabidopsis
+  thaliana.
+\newblock Genome research 25:246--256.
 
 \bibitem[{Wang et~al.(2013)Wang, Tan, and Paterson}]{wang2013}
 Wang, Y., X.~Tan, and A.~H. Paterson, 2013.
@@ -243,5 +314,11 @@ Zhang, J., Y.~Liu, E.-H. Xia, Q.-Y. Yao, X.-D. Liu, and L.-Z. Gao, 2015.
 \newblock Autotetraploid rice methylome analysis reveals methylation variation
   of transposable elements and their effects on gene expression.
 \newblock Proceedings of the National Academy of Sciences 112:E7022--E7029.
+
+\bibitem[{Zhou et~al.(2011)Zhou, Lemos, Dopman, and Hartl}]{zhou2011}
+Zhou, J., B.~Lemos, E.~B. Dopman, and D.~L. Hartl, 2011.
+\newblock Copy-number variation: the balance between gene dosage and expression
+  in drosophila melanogaster.
+\newblock Genome Biology and Evolution 3:1014--1024.
 
 \end{thebibliography}
