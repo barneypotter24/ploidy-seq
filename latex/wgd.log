@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  9 AUG 2019 19:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  10 AUG 2019 11:25
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -435,18 +435,22 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 [6] [7] [8] [9] [10] [11] (./wgd.bbl [12] [13] [14]) [15]
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 214.
+               Default added (so using `tbp') on input line 212.
 
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 235.
+               Default added (so using `tbp') on input line 233.
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 254.
 
 <../figures/dup_history_GO_and_MN.png, id=355, 578.16pt x 650.43pt>
 File: ../figures/dup_history_GO_and_MN.png Graphic file (type png)
 
 <use ../figures/dup_history_GO_and_MN.png>
 Package pdftex.def Info: ../figures/dup_history_GO_and_MN.png used on input lin
-e 262.
+e 281.
 (pdftex.def)             Requested size: 469.75502pt x 528.47307pt.
 
 
@@ -456,7 +460,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 File: ../figures/all_prv_boxen.png Graphic file (type png)
 
 <use ../figures/all_prv_boxen.png>
-Package pdftex.def Info: ../figures/all_prv_boxen.png used on input line 277.
+Package pdftex.def Info: ../figures/all_prv_boxen.png used on input line 296.
 (pdftex.def)             Requested size: 469.75502pt x 469.75385pt.
 
 
@@ -466,30 +470,30 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 File: ../figures/all_dr_boxen.png Graphic file (type png)
 
 <use ../figures/all_dr_boxen.png>
-Package pdftex.def Info: ../figures/all_dr_boxen.png used on input line 283.
+Package pdftex.def Info: ../figures/all_dr_boxen.png used on input line 302.
 (pdftex.def)             Requested size: 469.75502pt x 469.75385pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 305.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 324.
 [16
 
 ] [17] [18 <../figures/dup_history_GO_and_MN.png>] [19 <../figures/all_prv_boxe
 n.png>] [20 <../figures/all_dr_boxen.png>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 305.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 324.
  (./wgd.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 305.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 305.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 324.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 324.
 Package rerunfilecheck Info: File `wgd.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 305.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 324.
  ) 
 Here is how much of TeX's memory you used:
- 8094 strings out of 493014
- 116475 string characters out of 6133351
- 224099 words of memory out of 5000000
- 11419 multiletter control sequences out of 15000+600000
+ 8096 strings out of 493014
+ 116488 string characters out of 6133351
+ 231457 words of memory out of 5000000
+ 11420 multiletter control sequences out of 15000+600000
  12693 words of font info for 47 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  37i,11n,39p,2015b,535s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -505,10 +509,10 @@ l/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local
 /texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/t
 exlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/te
 xlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on wgd.pdf (20 pages, 2626740 bytes).
+Output written on wgd.pdf (20 pages, 2627396 bytes).
 PDF statistics:
- 452 PDF objects out of 1000 (max. 8388607)
- 407 compressed objects within 5 object streams
- 96 named destinations out of 1000 (max. 500000)
+ 454 PDF objects out of 1000 (max. 8388607)
+ 409 compressed objects within 5 object streams
+ 97 named destinations out of 1000 (max. 500000)
  16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
