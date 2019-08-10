@@ -3,49 +3,44 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: wgd.aux
 The style file: evolution.bst
 Database file #1: wgd.bib
-Repeated entry---line 570 of file wgd.bib
- : @article{wang2015
- :                  ,
-I'm skipping whatever remains of this entry
-You've used 49 entries,
+You've used 50 entries,
             2892 wiz_defined-function locations,
-            895 strings with 14996 characters,
-and the built_in function-call counts, 35139 in all, are:
-= -- 2778
-> -- 2204
+            900 strings with 15192 characters,
+and the built_in function-call counts, 35839 in all, are:
+= -- 2829
+> -- 2253
 < -- 15
-+ -- 731
-- -- 672
-* -- 2699
-:= -- 5603
-add.period$ -- 148
-call.type$ -- 49
-change.case$ -- 463
-chr.to.int$ -- 49
-cite$ -- 49
-duplicate$ -- 2411
-empty$ -- 2296
-format.name$ -- 839
-if$ -- 6943
++ -- 747
+- -- 687
+* -- 2754
+:= -- 5717
+add.period$ -- 151
+call.type$ -- 50
+change.case$ -- 473
+chr.to.int$ -- 50
+cite$ -- 50
+duplicate$ -- 2461
+empty$ -- 2340
+format.name$ -- 857
+if$ -- 7080
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 514
-newline$ -- 251
-num.names$ -- 196
-pop$ -- 978
+missing$ -- 525
+newline$ -- 256
+num.names$ -- 200
+pop$ -- 999
 preamble$ -- 1
-purify$ -- 414
+purify$ -- 423
 quote$ -- 0
-skip$ -- 655
+skip$ -- 667
 stack$ -- 0
-substring$ -- 1713
-swap$ -- 1145
+substring$ -- 1736
+swap$ -- 1169
 text.length$ -- 3
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 441
+type$ -- 450
 warning$ -- 0
-while$ -- 235
+while$ -- 239
 width$ -- 0
-write$ -- 642
-(There was 1 error message)
+write$ -- 655

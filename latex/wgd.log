@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  10 AUG 2019 11:25
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  10 AUG 2019 11:58
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -445,7 +445,7 @@ LaTeX Warning: No positions in optional float specifier.
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 254.
 
-<../figures/dup_history_GO_and_MN.png, id=355, 578.16pt x 650.43pt>
+<../figures/dup_history_GO_and_MN.png, id=358, 578.16pt x 650.43pt>
 File: ../figures/dup_history_GO_and_MN.png Graphic file (type png)
 
 <use ../figures/dup_history_GO_and_MN.png>
@@ -456,7 +456,7 @@ e 281.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<../figures/all_prv_boxen.png, id=357, 578.16pt x 578.16pt>
+<../figures/all_prv_boxen.png, id=360, 578.16pt x 578.16pt>
 File: ../figures/all_prv_boxen.png Graphic file (type png)
 
 <use ../figures/all_prv_boxen.png>
@@ -466,7 +466,7 @@ Package pdftex.def Info: ../figures/all_prv_boxen.png used on input line 296.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<../figures/all_dr_boxen.png, id=358, 578.16pt x 578.16pt>
+<../figures/all_dr_boxen.png, id=361, 578.16pt x 578.16pt>
 File: ../figures/all_dr_boxen.png Graphic file (type png)
 
 <use ../figures/all_dr_boxen.png>
@@ -490,13 +490,13 @@ Package rerunfilecheck Info: File `wgd.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 324.
  ) 
 Here is how much of TeX's memory you used:
- 8096 strings out of 493014
- 116488 string characters out of 6133351
- 231457 words of memory out of 5000000
- 11420 multiletter control sequences out of 15000+600000
+ 8100 strings out of 493014
+ 116553 string characters out of 6133351
+ 231533 words of memory out of 5000000
+ 11423 multiletter control sequences out of 15000+600000
  12693 words of font info for 47 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 37i,11n,39p,2015b,535s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 37i,11n,39p,2015b,537s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 </usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb>
@@ -509,10 +509,10 @@ l/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local
 /texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/t
 exlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/te
 xlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on wgd.pdf (20 pages, 2627396 bytes).
+Output written on wgd.pdf (20 pages, 2627477 bytes).
 PDF statistics:
- 454 PDF objects out of 1000 (max. 8388607)
- 409 compressed objects within 5 object streams
- 97 named destinations out of 1000 (max. 500000)
+ 457 PDF objects out of 1000 (max. 8388607)
+ 412 compressed objects within 5 object streams
+ 98 named destinations out of 1000 (max. 500000)
  16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
