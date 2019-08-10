@@ -156,7 +156,7 @@ Although there is a moderately strong pattern of reciprocal retention for GO ter
 
 \subsection*{Dosage sensitive gene classes exhibit less variable expression levels across accessions}
 
-If dosage sensitive gene classes are under selection for coordinated expression of gene products, then these genes should exhibit similar expression levels across accessions within species to avoid expression imbalances resulting from recombining alleles \citep{coate2016}. As expected, expression variance (EV) across accessions was smaller for Class II groupings (GO terms, metabolic networks and gene families) than for Class I groupings (Table 2, Figure 5). In all groupings, this was true if we looked at EV among diploids, tetraploids, or diploids and tetraploids combined (Table 2).
+If dosage sensitive gene classes are under selection for coordinated expression of gene products, then these genes should exhibit similar expression levels across accessions within species to avoid expression imbalances resulting from recombining alleles \citep{coate2016}. As expected, expression variance (EV) across accessions was smaller for Class II groupings (GO terms, metabolic networks and gene families) than for Class I groupings (Table 2, Figure 5). In all groupings, this was true if we looked at EV among diploids, tetraploids, or diploids and tetraploids combined (Table 3).
 
 \subsection*{Dosage sensitive predicted-interacting-protein pairs exhibit coordinated expression responses}
 
@@ -210,6 +210,51 @@ JC, JD, and BP designed the experiment. JC and BP performed the research. JC, BP
 \clearpage
 
 \section*{Tables}
+
+\begin{table}[]
+\caption{Summary statistics and Kruskal-Wallis tests for differences in PRV by Class for Gene Ontologies (GO), metabolic networks (AraCyc), Tasdigian et al. (2017) orthogroups (gene families), or Dong et al. (2019) structure based protein-protein interactions (S-PPI). N, number of functional groups included in the analysis.}
+\label{tab1}
+\resizebox{\textwidth}{!}{\begin{tabular}{lllllllll}
+ &  & N &  & Mean (SD) &  & Kruskal-Wallis &  &  \\
+Grouping & Accession & Class I & Class II & Class I & Class II & X2 & df & p \\
+GO & C24 & 188 & 199 & 0.494 (0.348) & 0.327 (0.253) & 35.59 & 1 & 2.44 x 10-09 \\
+ & Ws & 185 & 191 & 0.348 (0.189) & 0.267 (0.133) & 26.341 & 1 & 2.86 x 10-07 \\
+ & Wa & 186 & 194 & 0.233 (0.094) & 0.198 (0.089) & 16.952 & 1 & 3.83 x 10-05 \\
+AraCyc & C24 & 29 & 41 & 0.428 (0.229) & 0.342 (0.223) & 3.3058 & 1 & 0.069 \\
+ & Ws & 25 & 37 & 0.511 (0.567) & 0.262 (0.174) & 6.7835 & 1 & 0.0092 \\
+ & Wa & 30 & 34 & 0.276 (0.164) & 0.181 (0.063) & 6.8824 & 1 & 0.0087 \\
+Gene families & C24 & 141 & 652 & 0.407 (0.327) & 0.209 (0.211) & 62.531 & 1 & 2.62 x 10-15 \\
+ & Ws & 127 & 618 & 0.334 (0.283) & 0.192 (0.187) & 39.95 & 1 & 2.60 x 10-10 \\
+ & Wa & 149 & 650 & 0.356 (0.339) & 0.166 (0.188) & 54.2 & 1 & 1.81 x 10-13 \\
+S-PPI & C24 & 7692 & 501 & 0.309 (0.318) & 0.223 (0.219) & 29.227 & 1 & 6.44 x 10-08 \\
+ & Ws & 7416 & 484 & 0.236 (0.227) & 0.204 (0.193) & 9.0861 & 1 & 0.0026 \\
+ & Wa & 8377 & 520 & 0.367 (0.466) & 0.242 (0.361) & 34.85 & 1 & 3.56 x 10-09
+\end{tabular}}
+\end{table}
+
+\begin{table}[]
+\caption{Summary statistics and Kruskal-Wallis tests for differences in dosage response by Class for Gene Ontologies (GO), metabolic networks (AraCyc), Tasdigian et al. (2017) orthogroups (gene families), or Dong et al. (2019) structure based protein-protein interactions (S-PPI). N, number of functional groups included in the analysis.}
+\label{tab2}
+\resizebox{\textwidth}{!}{\begin{tabular}{lllllllll}
+ &  & N &  & Mean (SD) &  & Kruskal-Wallis &  &  \\
+Grouping & Accession & Class I & Class II & Class I & Class II & X2 & df & p \\
+GO & C24 & 188 & 199 & 0.903 (0.240) & 0.845 (0.096) & 4.023 & 1 & 0.045 \\
+ & Ws & 185 & 191 & 1.233 (0.117) & 1.206 (0.135) & 13.867 & 1 & 0.002 \\
+ & Wa & 186 & 194 & 1.208 (0.101) & 1.194 (0.064) & 0.223 & 1 & 0.637 \\
+AraCyc & C24 & 29 & 41 & 0.936 (0.236) & 0.799 (0.113) & 6.602 & 1 & 0.01 \\
+ & Ws & 25 & 37 & 1.453 (0.582) & 1.230 (0.078) & 6.561 & 1 & 0.01 \\
+ & Wa & 30 & 34 & 1.228 (0.136) & 1.177 (0.079) & 2.033 & 1 & 0.154 \\
+Gene families & C24 & 141 & 652 & 1.162 (1.274) & 0.848 (0.326) & 2.946 & 1 & 0.086 \\
+ & Ws & 127 & 618 & 1.735 (4.161) & 1.267 (0.504) & 0.015 & 1 & 0.903 \\
+ & Wa & 149 & 650 & 1.880 (5.343) & 1.240 (0.529) & 2.653 & 1 & 0.103 \\
+S-PPI & C24 & 7692 & 501 & 0.971 (1.264) & 0.822 (0.259) & 0.168 & 1 & 0.682 \\
+ & Ws & 7416 & 484 & 1.346 (1.015) & 1.322 (0.425) & 3.72 & 1 & 0.054 \\
+ & Wa & 8377 & 520 & 1.274 (1.045) & 1.300 (1.087) & 0.295 & 1 & 0.587
+\end{tabular}}
+\end{table}
+
+
+
 
 \section*{Figures}
 
