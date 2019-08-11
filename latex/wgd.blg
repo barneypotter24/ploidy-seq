@@ -3,44 +3,44 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: wgd.aux
 The style file: evolution.bst
 Database file #1: wgd.bib
-You've used 50 entries,
+You've used 52 entries,
             2892 wiz_defined-function locations,
-            900 strings with 15192 characters,
-and the built_in function-call counts, 35839 in all, are:
-= -- 2829
-> -- 2253
+            909 strings with 15777 characters,
+and the built_in function-call counts, 37472 in all, are:
+= -- 2940
+> -- 2387
 < -- 15
-+ -- 747
-- -- 687
-* -- 2754
-:= -- 5717
-add.period$ -- 151
-call.type$ -- 50
-change.case$ -- 473
-chr.to.int$ -- 50
-cite$ -- 50
-duplicate$ -- 2461
-empty$ -- 2340
-format.name$ -- 857
-if$ -- 7080
++ -- 791
+- -- 729
+* -- 2889
+:= -- 5982
+add.period$ -- 157
+call.type$ -- 52
+change.case$ -- 497
+chr.to.int$ -- 52
+cite$ -- 52
+duplicate$ -- 2573
+empty$ -- 2433
+format.name$ -- 905
+if$ -- 7396
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 525
-newline$ -- 256
-num.names$ -- 200
-pop$ -- 999
+missing$ -- 551
+newline$ -- 266
+num.names$ -- 208
+pop$ -- 1049
 preamble$ -- 1
-purify$ -- 423
+purify$ -- 445
 quote$ -- 0
-skip$ -- 667
+skip$ -- 691
 stack$ -- 0
-substring$ -- 1736
-swap$ -- 1169
+substring$ -- 1785
+swap$ -- 1225
 text.length$ -- 3
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 450
+type$ -- 468
 warning$ -- 0
-while$ -- 239
+while$ -- 247
 width$ -- 0
-write$ -- 655
+write$ -- 681

@@ -1,4 +1,4 @@
-\begin{thebibliography}{50}
+\begin{thebibliography}{52}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \providecommand{\urlprefix}{URL }
@@ -201,6 +201,13 @@ Qian, W., B.-Y. Liao, A.~Y.-F. Chang, and J.~Zhang, 2010.
   reduced expression.
 \newblock Trends in Genetics 26:425--430.
 
+\bibitem[{Qiao et~al.(2018)Qiao, Yin, Li, Wang, Wu, Wu, and Zhang}]{qiao2018}
+Qiao, X., H.~Yin, L.~Li, R.~Wang, J.~Wu, J.~Wu, and S.~Zhang, 2018.
+\newblock Different modes of gene duplication show divergent evolutionary
+  patterns and contribute differently to the expansion of gene families
+  involved in important fruit traits in pear (pyrus bretschneideri).
+\newblock Frontiers in plant science 9:161.
+
 \bibitem[{Ravi and Chan(2010)}]{ravi2010}
 Ravi, M. and S.~W. Chan, 2010.
 \newblock Haploid plants produced by centromere-mediated genome elimination.
@@ -307,6 +314,14 @@ Wang, Y., X.~Tan, and A.~H. Paterson, 2013.
 \newblock Different patterns of gene structure divergence following gene
   duplication in arabidopsis.
 \newblock BMC genomics 14:652.
+
+\bibitem[{Wang et~al.(2011)Wang, Wang, Tang, Tan, Ficklin, Feltus, and
+  Paterson}]{wang2011}
+Wang, Y., X.~Wang, H.~Tang, X.~Tan, S.~P. Ficklin, F.~A. Feltus, and A.~H.
+  Paterson, 2011.
+\newblock Modes of gene duplication contribute differently to genetic novelty
+  and redundancy, but show parallels across divergent angiosperms.
+\newblock PloS one 6:e28150.
 
 \bibitem[{Yu et~al.(2010)Yu, Haberer, Matthes, Rattei, Mayer, Gierl, and
   Torres-Ruiz}]{yu2010}
