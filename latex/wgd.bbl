@@ -1,4 +1,4 @@
-\begin{thebibliography}{52}
+\begin{thebibliography}{56}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \providecommand{\urlprefix}{URL }
@@ -70,6 +70,13 @@ Conant, G.~C., J.~A. Birchler, and J.~C. Pires, 2014.
   multiple models for duplicate gene evolution over time.
 \newblock Current opinion in plant biology 19:91--98.
 
+\bibitem[{Defoort et~al.(2019)Defoort, Van~de Peer, and
+  Carretero-Paulet}]{defoort2019}
+Defoort, J., Y.~Van~de Peer, and L.~Carretero-Paulet, 2019.
+\newblock The evolution of gene duplicates in angiosperms and the impact of
+  protein-protein interactions and the mechanism of duplication.
+\newblock Genome biology and evolution .
+
 \bibitem[{Dong et~al.(2019)Dong, Lau, Song, Ierullo, Esteban, Wu, Sivieng,
   Nahal, Gaudinier, Pasha et~al.}]{dong2019}
 Dong, S., V.~Lau, R.~Song, M.~Ierullo, E.~Esteban, Y.~Wu, T.~Sivieng, H.~Nahal,
@@ -104,6 +111,18 @@ Freeling, M., 2009.
 \newblock Bias in plant gene content following different sorts of duplication:
   tandem, whole-genome, segmental, or by transposition.
 \newblock Annual review of plant biology 60:433--453.
+
+\bibitem[{Grob and Grossniklaus(2017)}]{grob2017}
+Grob, S. and U.~Grossniklaus, 2017.
+\newblock Chromosome conformation capture-based studies reveal novel features
+  of plant nuclear architecture.
+\newblock Current opinion in plant biology 36:149--157.
+
+\bibitem[{Grob et~al.(2014)Grob, Schmid, and Grossniklaus}]{grob2014}
+Grob, S., M.~W. Schmid, and U.~Grossniklaus, 2014.
+\newblock Hi-c analysis in arabidopsis identifies the knot, a structure with
+  similarities to the flamenco locus of drosophila.
+\newblock Molecular cell 55:678--693.
 
 \bibitem[{Guo et~al.(1996)Guo, Davis, and Birchler}]{guo1996}
 Guo, M., D.~Davis, and J.~A. Birchler, 1996.
@@ -322,6 +341,12 @@ Wang, Y., X.~Wang, H.~Tang, X.~Tan, S.~P. Ficklin, F.~A. Feltus, and A.~H.
 \newblock Modes of gene duplication contribute differently to genetic novelty
   and redundancy, but show parallels across divergent angiosperms.
 \newblock PloS one 6:e28150.
+
+\bibitem[{Xie et~al.(2019)Xie, Zhang, Zhang, Wang, Hu, and Wu}]{xie2019}
+Xie, T., F.-G. Zhang, H.-Y. Zhang, X.-T. Wang, J.-H. Hu, and X.-M. Wu, 2019.
+\newblock {Biased gene retention during diploidization in Brassica linked to
+  three-dimensional genome organization}.
+\newblock Nature Plants 5:822--832.
 
 \bibitem[{Yu et~al.(2010)Yu, Haberer, Matthes, Rattei, Mayer, Gierl, and
   Torres-Ruiz}]{yu2010}
