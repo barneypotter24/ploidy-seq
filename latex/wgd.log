@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  12 AUG 2019 15:42
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  13 AUG 2019 12:19
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -432,12 +432,6 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 {/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] [3]
  [4] [5]
-
-LaTeX Warning: Reference `fig2' on page 6 undefined on input line 141.
-
-
-LaTeX Warning: Reference `fig2' on page 6 undefined on input line 145.
-
 [6]
 
 LaTeX Warning: Reference `fig5' on page 7 undefined on input line 159.
@@ -458,7 +452,7 @@ LaTeX Warning: No positions in optional float specifier.
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 255.
 
-<../figures/FIG1.png, id=405, 578.16pt x 650.43pt>
+<../figures/FIG1.png, id=410, 578.16pt x 650.43pt>
 File: ../figures/FIG1.png Graphic file (type png)
  <use ../figures/FIG1.png>
 Package pdftex.def Info: ../figures/FIG1.png used on input line 281.
@@ -467,7 +461,7 @@ Package pdftex.def Info: ../figures/FIG1.png used on input line 281.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<../figures/all_prv_boxen.png, id=407, 578.16pt x 578.16pt>
+<../figures/all_prv_boxen.png, id=412, 578.16pt x 578.16pt>
 File: ../figures/all_prv_boxen.png Graphic file (type png)
 
 <use ../figures/all_prv_boxen.png>
@@ -477,7 +471,7 @@ Package pdftex.def Info: ../figures/all_prv_boxen.png used on input line 296.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<../figures/all_dr_boxen.png, id=408, 578.16pt x 578.16pt>
+<../figures/all_dr_boxen.png, id=413, 578.16pt x 578.16pt>
 File: ../figures/all_dr_boxen.png Graphic file (type png)
 
 <use ../figures/all_dr_boxen.png>
@@ -500,32 +494,38 @@ Package rerunfilecheck Info: File `wgd.out' has not changed.
 
 LaTeX Warning: There were undefined references.
 
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 331.
  ) 
 Here is how much of TeX's memory you used:
- 8126 strings out of 493014
- 116852 string characters out of 6133351
- 231928 words of memory out of 5000000
+ 8127 strings out of 493014
+ 116860 string characters out of 6133351
+ 232530 words of memory out of 5000000
  11445 multiletter control sequences out of 15000+600000
  13001 words of font info for 48 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  37i,11n,39p,2015b,557s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
-></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
-</usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb>
-</usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><
-/usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></u
-sr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr
-/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/lo
-cal/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/loca
-l/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local
-/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/t
-exlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/te
-xlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on wgd.pdf (21 pages, 1470315 bytes).
+pdfTeX warning (dest): name{figure.4} has been referenced but does not exist,
+ replaced by a fixed one
+
+</usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><
+/usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></
+usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></
+usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></u
+sr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr
+/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/l
+ocal/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/loca
+l/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local/
+texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/t
+exlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/tex
+live/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texl
+ive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on wgd.pdf (21 pages, 1470305 bytes).
 PDF statistics:
- 495 PDF objects out of 1000 (max. 8388607)
- 449 compressed objects within 5 object streams
- 102 named destinations out of 1000 (max. 500000)
+ 501 PDF objects out of 1000 (max. 8388607)
+ 455 compressed objects within 5 object streams
+ 103 named destinations out of 1000 (max. 500000)
  16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
