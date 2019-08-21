@@ -28,3 +28,7 @@ notes.txt
 tmp*
 .DS_Store
 .ipynb_checkpoints
+
+*.aux
+*.log
+*wgd.pdf
