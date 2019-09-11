@@ -32,3 +32,8 @@ tmp*
 *.aux
 *.log
 *wgd.pdf
+*.aux
+*.blg
+*.log
+*.pdf
+*.synctex.gz
