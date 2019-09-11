@@ -37,3 +37,6 @@ tmp*
 *.log
 *.pdf
 *.synctex.gz
+*.bbl
+*.docx
+latex/*.out
