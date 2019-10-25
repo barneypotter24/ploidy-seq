@@ -1,49 +1,49 @@
-# Ploidy-seq data analysis
+# Gene balance predicts transcriptional responses immediately following ploidy change in _Arabidopsis thaliana_
 
-### _**DISCLAIMER**: Don't do any of this yet, I haven't debugged everything yet so it probably won't work._
+#### Michael J. Song<sup>1,†</sup>, Barney I. Potter<sup>2,†</sup>, Jeff J. Doyle<sup>3</sup>, Jeremy E. Coate<sup>4,\*</sup>
 
-First, we will need to create an instance on Jetstream Atmosphere and connect to iRODS. An explanation for how to do both of these things is available on [Mick Song's](https://github.com/michaelsongagradstudent) blog: https://michaelsongagradstudent.github.io/blog/2017/04/12/Cheat_Sheet_Atmosphere
+#### <sup>1</sup>University and Jepson Herbaria and Department of Integrative Biology, University of California, Berkeley, California, <sup>2</sup>Vaccine and Infectious Disease Division, Fred Hutchinson Cancer Research Center, Seattle, WA, <sup>3</sup>School of Integrative Plant Science, Cornell University, Ithaca, NY, <sup>4</sup>Department of Biology, Reed College, Portland, OR, , <sup>\*</sup>Corresponding Author: jcoate@reed.edu, , <sup>†</sup>These authors contributed equally to this work.
 
-Once we are in our Atmosphere web shell, we first want to install the package manager [conda](https://conda.io/docs/intro.html):
-```
-wget https://repo.continuum.io/miniconda/Miniconda3-latest-Linux-x86_64.sh
-bash Miniconda3-latest-Linux-x86_64.sh
-```
-We will need to re-initialize our web shell:
-```
-source ~/.bashrc
-```
-Next, clone the repository and cd into it:
-```
-git clone https://github.com/barneypotter24/ploidy-seq.git
-cd ploidy-seq
-```
-From there, we can install all the software that we will need for the analysis and migrate our data from the CyVerse data store. All of this can be done by running the command:
-```
-bash setup.sh
-```
-At several points during the installation, we will be prompted to accept the installation of programs that we will use. Just hit the return key to accept the installation. Once the command is done running we will have a few things:
-- populated directories for all of our raw and reference data
-- a new environment built inside which all of our programs are installed called `ploidy-seq`
-- empty directories that will store temporary files used during the pipeline as well as our pipeline output
-We will activate our new environment by running:
-```
-source activate ploidy-seq
-```
-This gives us access to all the programs that we need to continue.
+## Abstract
+The Gene Balance Hypothesis postulates that there is selection on gene copy number (gene dosage) to preserve stoichiometric balance among interacting proteins. This presupposes that gene product abundance is governed by gene dosage, and that gene dosage responses are consistent for all genes in a dosage-sensitive network or complex. Gene dosage responses, however, have rarely been quantified and the available data suggest that they are highly variable. We sequenced the transcriptomes of two synthetic autopolyploid accessions of Arabidopsis thaliana and their diploid progenitors, as well as one natural tetraploid and its synthetic diploid produced via haploid induction, to estimate transcriptome size and dosage responses immediately following ploidy change. Overall transcriptome size does not exhibit a simple doubling in response to genome doubling, and individual gene dosage responses are highly variable in all three accessions, indicating that expression is not strictly coupled with gene dosage. Nonetheless, putatively dosage-sensitive gene groups (GO terms, metabolic networks, gene families, and predicted interacting proteins) exhibit smaller and more coordinated dosage responses than do putatively dosage-insensitive gene groups, suggesting that constraints on dosage balance operate immediately following whole genome duplication, and that duplicate gene retention patterns are shaped by selection to preserve dosage balance.
 
-Now, we can test that everything is correctly installed and all of our data is living in the correct place:
-```
-snakemake -n
-```
-If no errors come up, we can start our analysis. Note that analysis will run on every file that is listed in `config.json`, and it may take a long time.
-```
-snakemake
-```
-All the output should end up in the folders `htseq` and `fastqc` and no intermediary files will be stored, to keep space use to a minimum.
+## Contents
+ploidy-seq
+├── bioinformatic_methods
+├── data
+│   ├── dosage_response
+│   ├── duplication_history
+│   ├── final_figures_input
+│   ├── networks
+│   └── ppt
+├── env
+├── figures
+├── latex
+│   └── plant cell submission
+├── notebooks
+└── scripts
 
-Finally, move all files back to iPlant:
-```
-cd htseq/
-iput -bf *.txt /iplant/home/jcoate/Arabidopsis/2017/HTSeq/
-```
+#### `bioinformatic_methods`
+Notes on how to run the bioinformatic methods used in this manuscript.
+
+#### `data`
+Contains all data used for analyses.
+
+#### `env`
+Environment file for [conda](https://docs.conda.io/en/latest/miniconda.html) for installing requirements.
+
+#### `figures`
+All figures used in the paper.
+
+#### `latex`
+Contains manuscript LaTeX files.
+
+#### `notebooks`
+Jupyter notebooks in which figures were generated.
+
+#### `scripts`
+Minor scripts used to set up analyses.
+
+## Citation
+
+[Potter BI, Song MJ, Doyle JJ, Coate JE 2019. Gene Balance Predicts Transcriptional Responses Immediately Following Ploidy Change In Arabidopsis thaliana. bioRxiv: 795328..](https://doi.org/10.1101/795328)
